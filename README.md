@@ -1,4 +1,4 @@
-# 🎧 easy_dl.py — Baixar MP4/MP3 com yt-dlp (uso legal)
+# 🎧 easy_dl.py — Baixar MP4/MP3 com yt-dlp
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB)](#)
 [![yt-dlp](https://img.shields.io/badge/yt--dlp-enabled-orange)](#)
