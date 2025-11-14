@@ -1,4 +1,4 @@
-# easy_dl.py — Baixar MP4/MP3 com yt-dlp (uso legal)
+# easy_dl.py — Baixar MP4/MP3 com yt-dlp
 
 > Script simples em **Python** para baixar **vídeos (MP4)** ou **áudio (MP3)** a partir de URLs suportadas pelo `yt-dlp`.  
 > Feito para uso **legal**: conteúdos próprios, materiais com **permissão/licença** ou bibliotecas **royalty-free**.
